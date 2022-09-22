@@ -15,6 +15,7 @@ let translations = {
     Delete: "Delete",
     deleteAll: "Delete All",
     numberNote: "number of notes",
+    footer:'By Hesham Mohamed © 2022',
   },
   ar: {
     Home: "الصفحة الرئيسية",
@@ -29,6 +30,8 @@ let translations = {
     Delete: "حذف",
     deleteAll: "حذف الكل",
     numberNote: "عدد الملاحظات",
+    footer:'بواسطة هشام محمد © 2022',
+
   },
 };
 
