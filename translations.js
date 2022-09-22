@@ -3,7 +3,7 @@ let languageSelector = document.querySelector('select');
 let translations = {
   en: {
     Home: "Home",
-    noteIndex: "sir",
+    noteIndex: "#",
     noteName: "note Name",
     Name: "Name",
     Note: "Note",
@@ -19,7 +19,7 @@ let translations = {
   },
   ar: {
     Home: "الصفحة الرئيسية",
-    noteIndex: "الرقم",
+    noteIndex: "#",
     noteName: "اسم الملاحظة",
     Name: "الاسم",
     Note: "الملاحظة",
