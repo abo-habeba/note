@@ -1,0 +1,22 @@
+.form-select{
+    width: fit-content !important;
+}
+.scroling{
+    overflow-x: auto !important;
+}
+
+.table tbody .Options{
+    display: flex;
+    flex-wrap: nowrap;
+    font-size: 15px;
+}
+.table tbody .Options button{
+    padding: 0px 3px!important;
+    margin: 2px;
+}
+.table tbody tr td {
+    word-wrap: break-word !important;
+}
+#btnEditNote{
+    display: none;
+}
